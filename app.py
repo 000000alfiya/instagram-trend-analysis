@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 
 # ---- UI DESIGN ----
-st.set_page_config(layout="wide", title="Instagram Trend Analysis")
+st.set_page_config(page_title="Instagram Trend Analysis", layout="wide")
 st.title("📊 Real-Time Instagram Trend Analysis")
 
 # Sidebar Inputs
